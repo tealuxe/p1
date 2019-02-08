@@ -1,5 +1,0 @@
-
-/* For devices larger than 550px */
-@media (min-width: 550px) {
-    .one-half.column                { width: 48%; margin-top: 10%}
-}
